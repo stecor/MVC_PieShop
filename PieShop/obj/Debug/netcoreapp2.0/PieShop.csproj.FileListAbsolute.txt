@@ -1,0 +1,11 @@
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.deps.json
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.runtimeconfig.json
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.runtimeconfig.dev.json
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.dll
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\bin\Debug\netcoreapp2.0\PieShop.pdb
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.AssemblyInfo.cs
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.dll
+C:\Users\Home\Documents\Visual Studio 2017\Projects\PieShop\PieShop\obj\Debug\netcoreapp2.0\PieShop.pdb
